@@ -2,6 +2,8 @@
 
 Clicker written in pocket code
 
+Telegram: [@rockclicker](https://t.me/rockclicker)
+
 # How to build
 
 We recommend you use the [compiled version](https://github.com/itzfali/rocksimulator/releases/download/v1/rocksimulator.apk)
