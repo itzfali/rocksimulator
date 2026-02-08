@@ -4,7 +4,7 @@ Clicker written in pocket code
 
 # How to build
 
-We recommend you use the [compiled version](https://github.com/itzfali/rocksimulator/releases/download/latest/rocksimulator.apk)
+We recommend you use the [compiled version](https://github.com/itzfali/rocksimulator/releases/download/v1/rocksimulator.apk)
 
 If you want to customize it, download [source code](https://github.com/itzfali/rocksimulator/releases/download/v1/src.catrobat) and [pocket code](https://play.google.com/store/apps/details?id=org.catrobat.catroid), open .catrobat file in pocket code
 
